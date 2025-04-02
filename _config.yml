@@ -47,3 +47,5 @@ exclude:
   - README.md
   - Assets/
   - gitPush.bat
+  - Gemfile
+  - Gemfile.lock
