@@ -55,7 +55,7 @@ exclude:
   - vendor/ruby/
   - LICENSE.md
   - README.md
-  - Assets/
+  - RepoAssets/
   - gitPush.bat
   - Gemfile
   - Gemfile.lock

@@ -1,0 +1,36 @@
+.depth1 {
+    font-size: 1.3em;
+    margin-left: 0em;
+}
+
+.depth2 {
+    font-size: 0.9em;
+    margin-left: 1.5em;
+}
+
+.depth3 {
+    font-size: 0.8em;
+    margin-left: 3em;
+}
+
+.depth4 {
+    font-size: 0.7em;
+    margin-left: 4.5em;
+}
+
+/* Optional: Make links look nice */
+.depth1 a,
+.depth2 a,
+.depth3 a,
+.depth4 a {
+    display: block;
+    text-decoration: none;
+    color: #0366d6;
+}
+
+.depth1 a:hover,
+.depth2 a:hover,
+.depth3 a:hover,
+.depth4 a:hover {
+    text-decoration: underline;
+}

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: $\text{Size}$(...)
+title: Size(...)
+name: $\text{Size}$(...)
 ---
 
 ### Definition
