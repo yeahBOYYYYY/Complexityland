@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Size(...)
-name: $\text{Size}$(...)
+displayTitle: $\text{Size}$(...)
 ---
 
 ### Definition

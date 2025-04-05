@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nu-AC(..., ...)
-name: $\text{nu-}\mathsf{AC}$(..., ...)
+displayTitle: $\text{nu-}\mathsf{AC}$(..., ...)
 ---
 
 ### Definition
