@@ -30,11 +30,13 @@ displayTitle: {Optional, The title for the page itself}
 ```
 3. All mentions of another module/class/language should include a link to that file or the Wikipedia page.
 
-The **Typing Convention** is as follows, the files should include the following sub-headings (h2),
+The **Typing Convention** is as follows, the main subject of the file shouldn't have a title, other then that the files should include the following sub-headings (h2),
 
 1. _Definition_: A formal definition of the subject.
 2. _Theorems_: Important theorems about the subject.
 3. _Languages_: Complete languages for the class/subject.
+
+If you wish to add _another_ topic inside the file you may use a heading (h1) to write the title and then use the same typing convention mentioned above.
 
 If you don't know what to write in one of the sub-headings please leave it with ellipsis (...) so the next reader will know it needs completion and might even contribute on top of you!
 </details>
