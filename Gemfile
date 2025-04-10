@@ -18,7 +18,6 @@ gem "github-pages", "~> 	232", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-navigation-tree', '~> 0.0.3'
-  gem 'jekyll-katex'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
