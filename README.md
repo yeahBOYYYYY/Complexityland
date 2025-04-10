@@ -9,6 +9,7 @@ If you know a significant Computation Module, Class or Language, you should and 
 
 <details>
   <summary><h1>Project structure</h1></summary>
+
 ## Tree hierarchy (not to be confused with the polynomial hierarchy)
 
 The project has a clear file hierarchy you can use for navigation, most of the files in the main page are for the website.
